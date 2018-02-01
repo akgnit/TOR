@@ -1,0 +1,3 @@
+This is due to an outdated key for verifying the torbrowser-launcher download. Try:
+
+gpg --homedir "$HOME/.local/share/torbrowser/gnupg_homedir/" --refresh-keys --keyserver pgp.mit.edu
